@@ -238,6 +238,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[Letta (MemGPT)](https://github.com/letta-ai/letta)**：构建具备长期记忆的有状态智能体框架
 - **[Mem0](https://github.com/mem0ai/mem0)**：面向AI智能体和助手的记忆层
 - **[Vestige](https://github.com/samvallad33/vestige)**：“本地优先的记忆 MCP 服务器（单个约 23MB Rust 二进制，数据保留在本地），支持实体/因果检索——通过共享的文件、环境变量、服务、符号关联记忆，回溯出导致后续故障、相似度检索可能遗漏的更早改动”
+- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)**：面向 AI 智能体的生命周期感知、本地优先记忆框架，支持 recall、audit、forgetting、consolidation，以及项目级 `.tree-ring` 存储
 - **[LLMLingua](https://github.com/microsoft/LLMLingua)**：prompt压缩，加速并降低LLM推理成本
 - **[Cognee](https://github.com/topoteretes/cognee)**：开源 AI 记忆平台，通过自托管知识图谱引擎为智能体提供跨会话的持久长期记忆
 - **[Graphiti](https://github.com/getzep/graphiti)**：为 AI 智能体构建实时、时序感知知识图谱的框架（Zep 记忆基础设施的核心引擎）
