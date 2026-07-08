@@ -239,6 +239,7 @@ RL-trained models that run up to 8 parallel searches per turn to retrieve code c
 ### Memory & Compression
 
 - **[claude-mem](https://github.com/thedotmack/claude-mem)**: Persistent cross-session memory for Claude Code that automatically captures, compresses, and re-injects context across sessions
+- **[Data Olympus](https://github.com/knaisoma/data-olympus)**: Governed project memory for coding agents. Agents can propose context, humans promote accepted rules, and retrieval serves only in-force knowledge after validity-window and supersession checks
 - **[LeanCTX (lean-ctx)](https://github.com/yvgude/lean-ctx)**: Context intelligence layer for AI agents — a single local Rust binary that decides what agents read, remember, and save; 60–90% fewer tokens, with 76 MCP tools and local-first design
 - **[headroom](https://github.com/chopratejas/headroom)**: Compresses tool outputs/logs before they reach the LLM, saving 60-95% of tokens
 - **[Accordion](https://github.com/a-Fig/Accordion)**: A pi extension that renders an agent's entire context window as a live "map" and folds (reversibly compacts) less-relevant blocks in the background via pluggable "conductors" that rank block relevance, instead of lossy all-or-nothing compaction
@@ -335,4 +336,3 @@ Special thanks to all contributors and the research community advancing the fiel
 **Maintained by**: [yzfly](https://github.com/yzfly) | **云中江树（微信公众号: 云中江树）**
 
 *If you find this repository helpful, please consider giving it a ⭐!*
-
