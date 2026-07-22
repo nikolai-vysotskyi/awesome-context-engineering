@@ -151,6 +151,13 @@ RL-trained models that run up to 8 parallel searches per turn to retrieve code c
 - 📄 arXiv: [2512.13564](https://arxiv.org/abs/2512.13564)
 - 🎯 A "forms-functions-dynamics" taxonomy of agent memory, distinguishing it from RAG and context engineering
 
+**PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting**
+- 📄 arXiv: [2606.08878](https://arxiv.org/abs/2606.08878)
+- 📊 110 scenarios across 10 topologies, testing how LLMs allocate context fragments to sub-agent roles
+- 🎯 The first benchmark for multi-agent orchestration prompt writing; 33 commercial models average 17.2% pass rate on role-fragment assignment
+
+> *Evaluates LLMs' ability to assign information fragments to sub-agent roles in multi-agent orchestration scenarios. Scoring uses strict pass (zero omissions and zero leaks) plus partial-credit metrics. Data covers 10 loop-centered topologies across 100 professional domains.*
+
 ### Core Research Areas
 
 - **Memory Systems**: [Reflexion](https://arxiv.org/abs/2303.11366), [Generative Agents](https://ar5iv.labs.arxiv.org/html/2304.03442)
