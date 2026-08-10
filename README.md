@@ -229,6 +229,7 @@ RL-trained models that run up to 8 parallel searches per turn to retrieve code c
 - **[interview-prep-template](https://github.com/AbhiK189/interview-prep-template)**: A three-layer context-engineering template (immutable sources → agent-maintained wiki → operating-manual file) where the agent synthesizes raw material into reusable answers, frameworks, and scored debriefs that compound over time
 - **[Practical Guide to Context Engineering](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering)**: A practical, hands-on guide (in Chinese) to context engineering for LLM applications
 - **[MFS](https://github.com/zilliztech/mfs)**: A context harness that unifies code, docs, chat, databases, and object stores into one file-like, searchable namespace (`ls`/`cat`/`grep` + hybrid semantic search), so agents pull context incrementally instead of injecting it all up front; self-hosted and local-first (local ONNX embeddings + Milvus, no API key)
+- **[Hexis](https://github.com/Bevel-Software/Hexis)**: Git-backed platform for skills, tools, and context for AI agents, with Git review workflows, role-based access, encrypted secrets, and remote MCP access
 
 ### Development Frameworks
 
