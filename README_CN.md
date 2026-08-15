@@ -242,6 +242,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[Cognee](https://github.com/topoteretes/cognee)**：开源 AI 记忆平台，通过自托管知识图谱引擎为智能体提供跨会话的持久长期记忆
 - **[Graphiti](https://github.com/getzep/graphiti)**：为 AI 智能体构建实时、时序感知知识图谱的框架（Zep 记忆基础设施的核心引擎）
 - **[Supermemory](https://github.com/supermemoryai/supermemory)**：快速、可扩展的记忆与上下文引擎，提供统一 Memory API，支持完全本地运行
+- **[billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh)**：面向 DeepSeek Harness 的模型驱动上下文压缩（Active Context Pruning）——由模型决定何时压缩、压缩什么
 
 ### 生产工具
 

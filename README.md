@@ -249,6 +249,7 @@ RL-trained models that run up to 8 parallel searches per turn to retrieve code c
 - **[Cognee](https://github.com/topoteretes/cognee)**: Open-source AI memory platform giving agents persistent long-term memory via a self-hosted knowledge-graph engine
 - **[Graphiti](https://github.com/getzep/graphiti)**: Framework for building real-time, temporal knowledge graphs for AI agents (the engine behind Zep's memory)
 - **[Supermemory](https://github.com/supermemoryai/supermemory)**: Fast, scalable memory + context engine with a single Memory API; supports fully local runs
+- **[billion-context-dsh](https://github.com/Tyan66666/billion-context-dsh)**: Model-driven context compression (Active Context Pruning) for the DeepSeek Harness — the model decides when and what to compress
 
 ### Production Tools
 
