@@ -205,6 +205,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[Context工程工具包](https://github.com/NeoLabHQ/context-engineering-kit)** ⭐1.2k：上下文工程技能套件
 - **[ACE（智能体式上下文工程）](https://github.com/ace-agent/ace)** ⭐1.2k：智能体上下文工程（ACE），让语言代理自我进化
 - **[context-space](https://github.com/context-space/context-space)** ⭐812：从 MCP 与集成出发构建的上下文工程基础设施
+- **[Agent QA](https://github.com/vostride/agent-qa)** ⭐772：源码可用的 QA Agent，在自然语言 Web／移动端测试之间保留范围受控的测试记忆与失败证据
 - **[Practical Guide to Context Engineering](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering)** ⭐708：面向大模型应用的上下文工程实战指南（中文）
 - **[get-shit-done (GSD)](https://github.com/gsd-build/get-shit-done)**：面向Claude Code的元提示与规范驱动开发／上下文工程系统
 - **[GSD-2](https://github.com/gsd-build/gsd-2)**：支持智能体长时自主工作的元提示／上下文工程系统

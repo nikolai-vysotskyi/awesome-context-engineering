@@ -211,6 +211,7 @@ RL-trained models that run up to 8 parallel searches per turn to retrieve code c
 - **[Context Engineering Kit](https://github.com/NeoLabHQ/context-engineering-kit)** ⭐1.2k: A context engineering skills toolkit
 - **[ACE (Agentic Context Engineering)](https://github.com/ace-agent/ace)** ⭐1.2k: Evolving language agents through agentic context engineering (ACE)
 - **[context-space](https://github.com/context-space/context-space)** ⭐812: Context engineering infrastructure built from MCPs and integrations
+- **[Agent QA](https://github.com/vostride/agent-qa)** ⭐772: Source-available QA agent that retains scoped test memory and failure evidence across natural-language web and mobile runs
 - **[Practical Guide to Context Engineering](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering)** ⭐708: A practical, hands-on guide (in Chinese) to context engineering for LLM applications
 - **[get-shit-done (GSD)](https://github.com/gsd-build/get-shit-done)**: Meta-prompting and spec-driven development / context engineering system for Claude Code
 - **[GSD-2](https://github.com/gsd-build/gsd-2)**: Meta-prompting / context engineering system enabling long-running autonomous agent work
