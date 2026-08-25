@@ -199,6 +199,7 @@ RL-trained models that run up to 8 parallel searches per turn to retrieve code c
 
 - **[Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)** ⭐76.1k: Comprehensive guide and resources for prompt engineering, context engineering, RAG, and AI agents
 - **[get-shit-done (GSD)](https://github.com/gsd-build/get-shit-done)** ⭐64.5k: Meta-prompting, context engineering and spec-driven development system for Claude Code
+- **[screenpipe](https://github.com/screenpipe/screenpipe)** ⭐19.9k: Source-available, local-first work-context layer that captures screen, audio, input, browser, and meeting activity for agent retrieval through MCP, REST, and CLI
 - **[Agent Skills for Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐16.7k: Collection of Agent Skills for context engineering and multi-agent architectures
 - **[Context Engineering Intro](https://github.com/coleam00/context-engineering-intro)** ⭐13.5k: Context engineering introduction and methodology for AI coding assistants
 - **[Context-Engineering (jasontang-ai)](https://github.com/jasontang-ai/Context-Engineering)** ⭐9.1k: Karpathy-inspired first-principles handbook for context engineering
@@ -336,4 +337,3 @@ Special thanks to all contributors and the research community advancing the fiel
 **Maintained by**: [yzfly](https://github.com/yzfly) | **云中江树（微信公众号: 云中江树）**
 
 *If you find this repository helpful, please consider giving it a ⭐!*
-

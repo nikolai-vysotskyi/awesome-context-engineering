@@ -193,6 +193,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 
 - **[提示工程指南 (Prompt Engineering Guide)](https://github.com/dair-ai/Prompt-Engineering-Guide)** ⭐76.1k：提示工程、上下文工程、RAG 与 AI 智能体的综合指南与资源合集
 - **[get-shit-done (GSD)](https://github.com/gsd-build/get-shit-done)** ⭐64.5k：面向 Claude Code 的元提示、上下文工程与规范驱动开发系统
+- **[screenpipe](https://github.com/screenpipe/screenpipe)** ⭐19.9k：源码可用、本地优先的工作上下文层，捕获屏幕、音频、输入、浏览器和会议活动，并通过 MCP、REST 和 CLI 向智能体提供可检索的工作证据
 - **[Agent Skills for Context Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** ⭐16.7k：面向上下文工程与多代理架构的 Agent Skills 集合
 - **[Context工程入门](https://github.com/coleam00/context-engineering-intro)** ⭐13.5k：面向 AI 编程助手的上下文工程入门方法论
 - **[Context-Engineering（jasontang-ai）](https://github.com/jasontang-ai/Context-Engineering)** ⭐9.1k：受 Karpathy 启发的上下文工程第一性原理手册
