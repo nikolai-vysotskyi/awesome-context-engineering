@@ -256,6 +256,7 @@ RL-trained models that run up to 8 parallel searches per turn to retrieve code c
 
 - **Claude Code**: Auto-compact context management
 - **ChatGPT**: Long-term cross-session memory
+- **[Puppyone](https://github.com/puppyone-ai/puppyone)**: File-system-based context storage for agents
 - **Cursor**: Rules-based context engineering
 - **Windsurf**: Advanced code context retrieval
 

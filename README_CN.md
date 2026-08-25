@@ -249,6 +249,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 
 - **Claude Code**：自动压缩context管理
 - **ChatGPT**：跨会话长期记忆
+- **[Puppyone](https://github.com/puppyone-ai/puppyone)**：面向智能体的文件系统式context存储
 - **Cursor**：基于规则的context工程
 - **Windsurf**：高级代码context检索
 
