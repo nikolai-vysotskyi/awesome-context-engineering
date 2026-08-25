@@ -166,10 +166,10 @@ Why compacting an agent's context is lossy compression, not free summarization �
 
 ### Core Research Areas
 
-- **Memory Systems**: [Reflexion](https://arxiv.org/abs/2303.11366), [Generative Agents](https://ar5iv.labs.arxiv.org/html/2304.03442)
+- **Memory Systems**: [Reflexion](https://arxiv.org/abs/2303.11366), [Generative Agents](https://ar5iv.labs.arxiv.org/html/2304.03442), [StructMem](https://arxiv.org/abs/2604.21748) ([code](https://github.com/zjunlp/LightMem))
 - **Retrieval-Augmented Generation**: [RAG Survey](https://github.com/langchain-ai/rag-from-scratch)
 - **Tool Integration**: [Tool Selection](https://arxiv.org/abs/2410.14594), [BigTool](https://arxiv.org/abs/2505.03275)
-- **Context Compression**: [Recursive Summarization](https://arxiv.org/pdf/2308.15022), [Context Pruning](https://arxiv.org/abs/2501.16214)
+- **Context Compression**: [Recursive Summarization](https://arxiv.org/pdf/2308.15022), [Context Pruning](https://arxiv.org/abs/2501.16214), [TokenPilot](https://arxiv.org/abs/2606.17016) ([code](https://github.com/zjunlp/LightRSI))
 - **Long-Context Limitations**: [Lost in the Middle](https://arxiv.org/abs/2307.03172)
 
 ## 🛠️ Tools & Projects
