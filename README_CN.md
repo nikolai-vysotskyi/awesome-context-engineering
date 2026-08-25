@@ -225,6 +225,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[interview-prep-template](https://github.com/AbhiK189/interview-prep-template)**：三层上下文工程模板（不可变原始素材 → agent 维护的 wiki → 运行手册文件），由 agent 把原始素材合成为可复用的答案、框架与带评分的复盘，并随每次面试持续累积变强
 - **[Practical Guide to Context Engineering](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering)**：面向大模型应用的上下文工程实战指南（中文）
 - **[wiki](https://github.com/plasma-ai/wiki)**：面向智能体的索引式 Markdown 知识库，支持按需渐进检索项目上下文，并提供确定性索引、交叉链接、结构校验，以及并行编辑时的合并处理
+- **[Hexis](https://github.com/Bevel-Software/Hexis)**：面向 AI Agent 的 Git 驱动技能、工具与上下文平台，支持 Git 评审流程、基于角色的访问控制、加密密钥存储与远程 MCP 接入
 
 ### 开发框架
 
