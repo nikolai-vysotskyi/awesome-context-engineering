@@ -123,7 +123,7 @@ RL-trained models that run up to 8 parallel searches per turn to retrieve code c
 
 ### Compaction Is a Lossy Operation
 
-- https://loopandretry.github.io/posts/compaction-is-a-lossy-operation/?ref=awesome-ctxeng
+- https://loopandretry.github.io/posts/compaction-is-a-lossy-operation/
 
 Why compacting an agent's context is lossy compression, not free summarization — what survives, what silently drops, and how it degrades long multi-turn runs.
 
@@ -207,6 +207,13 @@ Why compacting an agent's context is lossy compression, not free summarization �
 7. **[Agent Systems Handbook](https://github.com/Prompthon-IO/agent-systems-handbook)**
    - Practical AI agents handbook covering agentic workflows and multi-agent architecture
    - Spans LangGraph, MCP/A2A, context engineering, agent memory, evaluation, and observability
+
+### Context Engineering in 2026: Harnesses, Skills & Protocols
+
+- **[deepseek-harness (dsh)](https://github.com/deepseek-ai/deepseek-harness)**: DeepSeek's official open-source agent harness (Aug 2026). Its append-only session log is the *only* source of model context ("model-visible means logged"), with prompt sections, tool schemas, skills and sub-agents all composed as swappable plugins — a reference design for context assembly
+- **[Agent Skills open standard](https://agentskills.io/)**: `SKILL.md` folders loaded via progressive disclosure (name/description → full instructions → bundled files), adopted by 40+ agents (Claude Code, Codex, Gemini CLI, Cursor, OpenCode, dsh...). Skills are the portable unit of *procedural* context
+- **[MCP 2026-07-28 spec](https://blog.modelcontextprotocol.io/posts/2026-07-28/)**: stateless core, cacheable `tools/list` results with `ttlMs`, and header-based routing — all aimed at keeping tool context cheap and fresh for agents
+- **[Claude Code context docs](https://code.claude.com/docs/en/memory)**: CLAUDE.md memory hierarchy, `/compact`, subagents and hooks — the most widely copied practical context-management model
 
 ### Context Engineering Systems & Kits
 

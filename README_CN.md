@@ -124,7 +124,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 
 ### 压缩是一种有损操作
 
-- https://loopandretry.github.io/posts/compaction-is-a-lossy-operation/?ref=awesome-ctxeng
+- https://loopandretry.github.io/posts/compaction-is-a-lossy-operation/
 
 为什么压缩智能体的 context 是有损压缩，而非免费的摘要——哪些信息被保留、哪些被悄悄丢弃，以及它如何逐渐劣化长的多轮运行。
 
@@ -194,6 +194,13 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 7. **[Agent Systems Handbook](https://github.com/Prompthon-IO/agent-systems-handbook)**
    - 实战 AI agents 手册，涵盖 agentic 工作流与多智能体架构
    - 横跨 LangGraph、MCP/A2A、上下文工程、agent 记忆、评估与可观测性
+
+### 2026 上下文工程新动向：Harness、Skills 与协议
+
+- **[deepseek-harness (dsh)](https://github.com/deepseek-ai/deepseek-harness)**：DeepSeek 官方开源 Agent 框架（2026-08）。追加式会话日志是模型上下文的*唯一*来源（"模型可见即已记录"），提示分节、工具 schema、技能与子 Agent 全部以可替换插件组合——上下文装配的参考设计
+- **[Agent Skills 开放标准](https://agentskills.io/)**：以 `SKILL.md` 目录通过渐进式披露加载（名称/描述 → 完整指令 → 附带文件），已被 40+ Agent 采纳（Claude Code、Codex、Gemini CLI、Cursor、OpenCode、dsh…），是*程序性*上下文的可移植单元
+- **[MCP 2026-07-28 规范](https://blog.modelcontextprotocol.io/posts/2026-07-28/)**：无状态核心、带 `ttlMs` 的可缓存 `tools/list`、头部路由——都是为了让工具上下文更便宜、更新鲜
+- **[Claude Code 上下文文档](https://code.claude.com/docs/en/memory)**：CLAUDE.md 记忆层级、`/compact`、子 Agent 与 Hooks——被广泛借鉴的实用上下文管理模型
 
 ### Context工程系统与工具包
 
