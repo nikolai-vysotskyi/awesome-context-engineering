@@ -121,6 +121,12 @@ Parallel sub-agent architecture that avoids fabrication when processing many ite
 
 RL-trained models that run up to 8 parallel searches per turn to retrieve code context an order of magnitude faster while minimizing context pollution.
 
+### Compaction Is a Lossy Operation
+
+- https://loopandretry.github.io/posts/compaction-is-a-lossy-operation/?ref=awesome-ctxeng
+
+Why compacting an agent's context is lossy compression, not free summarization — what survives, what silently drops, and how it degrades long multi-turn runs.
+
 ## 📑 Research Papers
 
 ### Survey Papers

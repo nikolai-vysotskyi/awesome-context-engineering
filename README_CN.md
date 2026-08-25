@@ -122,6 +122,12 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 用强化学习训练、每轮最多 8 路并行检索的模型，在最小化 context 污染的同时将代码上下文检索速度提升一个数量级。
 
 
+### 压缩是一种有损操作
+
+- https://loopandretry.github.io/posts/compaction-is-a-lossy-operation/?ref=awesome-ctxeng
+
+为什么压缩智能体的 context 是有损压缩，而非免费的摘要——哪些信息被保留、哪些被悄悄丢弃，以及它如何逐渐劣化长的多轮运行。
+
 ## 📑 研究论文
 
 ### 综述论文
