@@ -224,6 +224,7 @@ Context工程是对大语言模型(LLM)信息负载的系统性优化。它包�
 - **[Project Context Records (PCR)](https://github.com/hyf0/project-context-records)**：一套上下文工程方法论，在仓库内持久化、版本化地存档项目的「元上下文」（缘由、架构、维护者决策），让 AI 协作者继承项目判断力，而非反复重新推导
 - **[interview-prep-template](https://github.com/AbhiK189/interview-prep-template)**：三层上下文工程模板（不可变原始素材 → agent 维护的 wiki → 运行手册文件），由 agent 把原始素材合成为可复用的答案、框架与带评分的复盘，并随每次面试持续累积变强
 - **[Practical Guide to Context Engineering](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering)**：面向大模型应用的上下文工程实战指南（中文）
+- **[wiki](https://github.com/plasma-ai/wiki)**：面向智能体的索引式 Markdown 知识库，支持按需渐进检索项目上下文，并提供确定性索引、交叉链接、结构校验，以及并行编辑时的合并处理
 
 ### 开发框架
 
